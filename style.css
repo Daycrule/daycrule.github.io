@@ -288,3 +288,20 @@
     background-color: whitesmoke;  
   }
   
+#Historia p{
+    display: flex;
+    font-size: x-large;
+    font-weight: normal;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    background-color: whitesmoke;
+  }
+
+  #Historia H2{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Century Gothic, sans-serif;
+    text-align: center;
+    margin-top: 1.6em;
+      margin-bottom: .6666667em;
+    background-color: whitesmoke;
+  }
