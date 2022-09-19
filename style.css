@@ -96,7 +96,9 @@
   nav a:hover {
     color: rgb(103, 35, 103);
   }
-  
+
+
+
   @media (max-width: 700px) {
     header {
       flex-direction: column;
@@ -104,6 +106,13 @@
     nav {
       padding: 10px 0px;
     }
+      
+       #imag {
+    justify-content: center;
+    display: flex;
+    padding-bottom: 29px;
+    padding-top: 29px; }
+      
     .logo {
       font-size: 25px;
       padding: 0 20px;
