@@ -174,7 +174,7 @@
     color: rgb(8, 69, 69);
     font-size: 50px;
     padding-top: 0px;
-    background-color: whitesmoke
+    
   }
   
   #Intro.container {
@@ -189,13 +189,13 @@
     text-align: center;
     margin-top: 1.6em;
       margin-bottom: .6666667em;
-    background-color: whitesmoke;
+    
   }
   
   #Intro p {
     font-size: x-large;
     font-weight: normal;
-    background-color: whitesmoke;
+    
     margin-top: 1.6em;
       margin-bottom: .6666667em;
     
@@ -210,7 +210,7 @@
     font-size: x-large;
     font-weight: normal;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-color: whitesmoke;
+    
   }
   
   #Concept imag {
@@ -232,7 +232,7 @@
     font-size: x-large;
     font-weight: normal;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-color: whitesmoke;
+    
   }
   
   #Tipos.container{
@@ -241,19 +241,19 @@
   
   #Article h3 {
     margin-top: 0;
-    font-size: xx-large;
+    font-size: 50px;
     font-weight: bold;
     margin-top: 1.6em;
       margin-bottom: .6666667em;
-    background-color: whitesmoke;
+    
   }
 
   #Tipos h4 {
     margin-top: 0;
-    font-size: xx-large;
+    font-size: 50px;
     margin-top: 1.6em;
       margin-bottom: .6666667em;
-    background-color: whitesmoke;
+    
   }
 
   #imagg{
@@ -268,7 +268,7 @@
     font-size: x-large;
     font-weight: normal;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-color: whitesmoke;
+    
   }
   
   #Paises.container {
@@ -280,7 +280,7 @@
     font-size: 50px;
     font-weight: bold;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-color: whitesmoke;
+    
     text-align:center;
     padding: 20px 20px 20px 20px;
     margin-top: 1.6em;
@@ -294,7 +294,7 @@
     padding: 20px 200px 20px 200px;
     margin-top: 1.6em;
       margin-bottom: .6666667em;
-    background-color: whitesmoke;  
+      
   }
   
 #Historia p{
@@ -302,13 +302,13 @@
     font-size: x-large;
     font-weight: normal;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    background-color: whitesmoke;
+    
   }
 #Historia.container{
    display:flex;
     font-size: x-large;
     font-weight: normal
-    background-color: whitesmoke;
+    
      }
     
   #Historia H2{
@@ -319,5 +319,5 @@
     margin-top: 1.6em;
       
       margin-bottom: .6666667em;
-    background-color: whitesmoke;
+    
   }
